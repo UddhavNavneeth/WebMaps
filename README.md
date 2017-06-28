@@ -10,6 +10,6 @@ Made using the following modules :-
 ----
 ## Screenshots ##
 
-![alt text](http://imgur.com/a/SEf5v)
+![picture alt](http://imgur.com/a/SEf5v "Image-1")
 ----
-![alt text](http://imgur.com/a/g7Kup)
+![picture text](http://imgur.com/a/g7Kup "Image-2")
