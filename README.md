@@ -1,5 +1,10 @@
 # Volcanoes-WebMap
-A web map made in Python which shows the location of volcanoes in the USA
+
+A data visualization project, it is a web map made in Python which consists of 3 layers :-
+
+* Base Layer - Mapbox Bright 
+* Polygon Layer - Showing the population of all the countries with 3 different colors
+* Pointer Layer - Showing the volcanoes and their elevations in USA
 
 Made using the following modules :-
 
