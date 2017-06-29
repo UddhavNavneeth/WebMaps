@@ -8,10 +8,15 @@ Made using the following modules :-
 ----
 ## Screenshots ##
 
-__Map showing the volcanoes__
+__Map showing the Population__
 
-![Alt text](/img1.PNG?raw=true)
+![Alt text](/Screenshots/img1.PNG?raw=true)
 ----
-__Popup showing the elevation__
+__Map showing the volanoes__
 
-![Alt text](/img2.PNG?raw=true)
+![Alt text](/Screenshots/img2.PNG?raw=true)
+----
+
+__Both the layers shown together__
+
+![Alt text](/Screenshots/img3.PNG?raw=true)
